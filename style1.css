@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+background-color:rgb(250,37,10);
+color:rgb(255,255,255);
+text-align:center;
+}
+body{
+/*
+background-image:url(../images/arka%20plan.jpeg);
+background-repeat:no-repeat; 
+background-position:100px 50px;
+*/
+
+background:url(../images/arka%20plan.jpeg) no-repeat center center;
+background-attachment:fixed;
+    }
+
+
